@@ -10,6 +10,6 @@ New Version for WebInfo Best tool to Get Subdomins in many way .
 * ✅Hidden Paths
 
 #Photo
-![Script](https://up4net.com/uploads3/up4net-Screen-Shot-2020-12-07-at-12-39-42-PM.png "Script Interface")
+![Script](https://up4net.com/uploads3/up4net-مخلخ.jpg "Script Interface")
 
-![Script](https://up4net.com/uploads3/up4net-Clo2020-12-07-11-29-18.jpg)
+![Script](https://up4net.com/uploads3/up4net-Cloud.jpg)
