@@ -8,7 +8,6 @@ New Version for WebInfo Best tool to Get Subdomins in many way .
 * ✅Choose wordlist
 * ✅Discoverd subdomian by api
 * ✅Hidden Paths
-* ✅+UEFI+booting+via+Clover.
 
 #Photo
 ![Script](https://up4net.com/uploads3/up4net-Screen-Shot-2020-12-07-at-12-39-42-PM.png "Script Interface")
