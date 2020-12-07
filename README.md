@@ -9,7 +9,7 @@ New Version for WebInfo Best tool to Get Subdomins in many way .
 * ✅Discoverd subdomian by api
 * ✅Hidden Paths
 
-#Photo
+# Photo
 ![Script](https://up4net.com/uploads3/up4net-مخلخ.jpg "Script Interface")
 
 ![Script](https://up4net.com/uploads3/up4net-Cloud.jpg)
