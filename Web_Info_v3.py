@@ -128,31 +128,6 @@ def Pahtlogo():
     '''
     os.system('clear')
     slow1(Fore.LIGHTYELLOW_EX + Style.BRIGHT + path1)
-
-def CloudFail():
-    R = Fore.LIGHTRED_EX + Style.BRIGHT
-    W = Fore.LIGHTWHITE_EX + Style.BRIGHT
-    print(
-        R + 'Try' + W + 'pip3 install -r requirements.txt' + R + 'or ' + W + 'sudo apt-get install python3-setuptools')
-    os.system('clear')
-    os.system('clear')
-    slow1(R + '''
-
-
-          /$$$$$$  /$$                           /$$ /$$$$$$$$       /$$ /$$
-         /$$__  $$| $$                          | $$| $$_____/      |__/| $$
-        | $$  \__/| $$  /$$$$$$  /$$   /$$  /$$$$$$$| $$    /$$$$$$  /$$| $$
-        | $$      | $$ /$$__  $$| $$  | $$ /$$__  $$| $$$$$|____  $$| $$| $$
-        | $$      | $$| $$  \ $$| $$  | $$| $$  | $$| $$__/ /$$$$$$$| $$| $$
-        | $$    $$| $$| $$  | $$| $$  | $$| $$  | $$| $$   /$$__  $$| $$| $$
-        |  $$$$$$/| $$|  $$$$$$/|  $$$$$$/|  $$$$$$$| $$  |  $$$$$$$| $$| $$
-         \______/ |__/ \______/  \______/  \_______/|__/   \_______/|__/|__/
-                                                                   by m0rtem 
-                ''')
-    target_Bypass = input(W + "#Target >>")
-    os.system('clear')
-    os.system('python3 cloudfail.py -t %s ' % target_Bypass)
-    os.systeam('clear')
 def logo1():
     os.system('clear')
     logo = '''
@@ -352,5 +327,27 @@ while True:
             os.system('pip3 install -r requirements.txt')
             os.system('clear')
         except:
-            CloudFail()
+            R = Fore.LIGHTRED_EX + Style.BRIGHT
+            W = Fore.LIGHTWHITE_EX + Style.BRIGHT
+            print(
+                R + 'Try' + W + 'pip3 install -r requirements.txt' + R + 'or ' + W + 'sudo apt-get install python3-setuptools')
+            os.system('clear')
+        os.system('clear')
+        slow1(R + '''
+
+
+              /$$$$$$  /$$                           /$$ /$$$$$$$$       /$$ /$$
+             /$$__  $$| $$                          | $$| $$_____/      |__/| $$
+            | $$  \__/| $$  /$$$$$$  /$$   /$$  /$$$$$$$| $$    /$$$$$$  /$$| $$
+            | $$      | $$ /$$__  $$| $$  | $$ /$$__  $$| $$$$$|____  $$| $$| $$
+            | $$      | $$| $$  \ $$| $$  | $$| $$  | $$| $$__/ /$$$$$$$| $$| $$
+            | $$    $$| $$| $$  | $$| $$  | $$| $$  | $$| $$   /$$__  $$| $$| $$
+            |  $$$$$$/| $$|  $$$$$$/|  $$$$$$/|  $$$$$$$| $$  |  $$$$$$$| $$| $$
+             \______/ |__/ \______/  \______/  \_______/|__/   \_______/|__/|__/
+                                                                       by m0rtem 
+                    ''')
+        target_Bypass = input(W + "#Target >>")
+        os.system('clear')
+        os.system('python3 cloudfail.py -t %s ' % target_Bypass)
+        os.systeam('clear')
     exit()
